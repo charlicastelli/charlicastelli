@@ -1,4 +1,5 @@
-## Olá👋 Eu sou o Charli Castelli
+## Hi, I'm Charli Castelli
+
 
 <div align="center">
   <a href="https://github.com/charlicastelli">
