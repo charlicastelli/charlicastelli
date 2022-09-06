@@ -3,6 +3,7 @@
 - 🌎 I'm from Brazil.
 - 👨‍🎓 I'm a systems development student.
 - 💻 In love with technology.
+<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=8042fc&style=plastic" alt="charlicastelli" /> 
 
 <div align="center">
   <a href="https://github.com/charlicastelli">
