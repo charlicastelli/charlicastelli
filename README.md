@@ -1,4 +1,4 @@
-### Olá👋 Eu sou o Charli Castelli
+## Olá👋 Eu sou o Charli Castelli
 
 <div align="center">
   <a href="https://github.com/charlicastelli">
@@ -9,7 +9,7 @@
 
 
 
-Main skills:
+## Main skills:
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Charli-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
