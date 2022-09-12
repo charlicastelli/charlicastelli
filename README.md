@@ -45,5 +45,4 @@
 </div>
   
 
-
 ![Snake animation](https://github.com/charlicastelli/charlicastelli/blob/output/github-contribution-grid-snake.svg)
