@@ -1,6 +1,8 @@
 ## Hi, I'm Charli Castelli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 - 🌎 I'm from Brazil.
+- 💻 Pentest.
+- 💻 Offensive Security.
 - 💻 In love with technology.
  
 <div align="center">
@@ -8,6 +10,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=charlicastelli&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Charli Castelli github stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlicastelli&layout=compact&hide_border=true&langs_count=6&theme=dracula" />
 </div> 
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charlicastelli&bg_color=282A36&theme=dracula&point=FFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
@@ -44,6 +51,7 @@
   <img align="center" alt="Charli-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Charli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Charli-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Charli-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
 </div>
   
@@ -53,5 +61,3 @@
 </div>
  
   
-
-![Snake animation](https://github.com/charlicastelli/charlicastelli/blob/output/github-contribution-grid-snake.svg)
